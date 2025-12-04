@@ -2,7 +2,7 @@
 
 👨‍💻 **Tech Enthusiast | Embedded Systems | Robotics | AI/ML**
 
-Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **IoT**, dan **machine learning**. Saat ini banyak bereksperimen dengan **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, serta model AI ringan yang bisa berjalan di mikrokontroler.
+Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **IoT**, dan **machine learning**. Saat ini banyak bereksperimen dengan **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, serta model AI ringan.
 
 ---
 
