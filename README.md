@@ -24,7 +24,7 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 
 ### 🤖 AI & ML
 - TinyML  
-- YOLOv8  
+- YOLOv7  
 - Computer Vision  
 - Model deployment ke microcontroller  
 
@@ -49,7 +49,7 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 
 ## 📫 Contact Me
 - **Email:** *izdiharuddin89@gmail.com*  
-- **Instagram:** *daviicie*  
+- **Instagram:** *@daviicie*  
 - **LinkedIn:** *https://www.linkedin.com/in/ardiansyah-rasyadan-39b79037a/*
 
 ---
