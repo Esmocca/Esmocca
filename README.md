@@ -50,9 +50,9 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 ## 📫 Contact Me
 - **Email:** *izdiharuddin89@gmail.com*  
 - **Instagram:** *daviicie*  
-- **LinkedIn:** **
+- **LinkedIn:** *https://www.linkedin.com/in/ardiansyah-rasyadan-39b79037a/*
 
 ---
 
-### ⭐ *"Build, Break, Learn — Repeat."*  
-Jika suka dengan apa yang saya kerjakan, jangan lupa ⭐ repo saya!
+### ⭐ *"Try to make a better world."*  
+
