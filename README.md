@@ -12,12 +12,15 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 - C / C++ (Arduino Framework)
 - Python (IoT, ML, automation)
 - MicroPython
-- Bash / Linux utilities
+- Bash / Linux utilities Ubuntu
 
 ### 🔧 Hardware & Embedded
+- Jetson Nano
+- Raspberry pi 4
 - Raspberry Pi Pico W  
-- ESP32  
-- Servo (SG90 / MG995)  
+- ESP32
+- Arduino nano
+- Servo 
 - PCA9685  
 - OLED I2C & LCD 16x2  
 - Sensor & modul IoT
@@ -26,7 +29,7 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 - TinyML  
 - YOLOv7  
 - Computer Vision  
-- Model deployment ke microcontroller  
+- Tensort
 
 ---
 
