@@ -2,7 +2,7 @@
 
  **Tech Enthusiast | Embedded Systems | Robotics | AI/ML**
 
-Currently using **Raspberry Pi Pico W**, **Arduin0**, **ESP32**, and **Jetson Nano**. Currently experiment with project like **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, and AI models.
+Currently using **Raspberry Pi Pico W**, **Arduino**, **ESP32**, and **Jetson Nano**. I likes an experiment with project like **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, and AI models.
 
 ---
 
