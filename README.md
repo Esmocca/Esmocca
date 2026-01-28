@@ -1,20 +1,20 @@
 # Hi there, I'm Ardan 👋
 
-👨‍💻 **Tech Enthusiast | Embedded Systems | Robotics | AI/ML**
+ **Tech Enthusiast | Embedded Systems | Robotics | AI/ML**
 
-Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **IoT**, dan **machine learning**. Saat ini banyak bereksperimen dengan **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, serta model AI ringan.
+Currently using **Raspberry Pi Pico W**, **Arduin0**, **ESP32**, and **Jetson Nano**. Currently experiment with project like **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, and AI models.
 
 ---
 
-## 🚀 Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 - C / C++ (Arduino Framework)
 - Python (IoT, ML, automation)
 - MicroPython
 - Bash / Linux utilities Ubuntu
 
-### 🔧 Hardware & Embedded
+###  Hardware & Embedded
 - Jetson Nano
 - Raspberry pi 4
 - Raspberry Pi Pico W  
@@ -25,7 +25,7 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 - OLED I2C & LCD 16x2  
 - Sensor & modul IoT
 
-### 🤖 AI & ML
+###  AI & ML
 - TinyML  
 - YOLOv7  
 - Computer Vision  
@@ -34,10 +34,9 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 ---
 
 ## 🔥 Current Projects
-- 🔧 Robot dengan 7 servo (PCA9685 + Pico W)  
-- 📡 Multi-display status system (OLED kanan/kiri + LCD 16x2 scoreboard)  
-- 🤖 YOLOv8 training & optimization  
-- 🛜 IoT server–client system dengan API & WebSocket  
+-  Humanoid bot 
+-  YOLOv8 training & optimization  
+-  IoT server–client system dengan API & WebSocket  
 
 ---
 
@@ -54,8 +53,4 @@ Saya suka mengembangkan proyek terkait **Raspberry Pi Pico W**, **robotics**, **
 - **Email:** *izdiharuddin89@gmail.com*  
 - **Instagram:** *@daviicie*  
 - **LinkedIn:** *https://www.linkedin.com/in/ardiansyah-rasyadan-39b79037a/*
-
----
-
-### ⭐ *"Try to make a better world."*  
 
