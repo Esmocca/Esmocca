@@ -2,7 +2,7 @@
 
  **Tech Enthusiast | Embedded Systems | Robotics | AI/ML**
 
-Currently using **Raspberry Pi Pico W**, **Arduino**, **ESP32**, and **Jetson Nano**. I likes an experiment with project like **servo control**, **PCA9685**, **OLED display**, **LCD I2C**, and AI models.
+Currently using Raspberry Pi Pico W, Arduino, ESP32, and Jetson Nano. Im interested with project like servo control, computer vision, ros, server, and AI models.
 
 ---
 
@@ -36,7 +36,7 @@ Currently using **Raspberry Pi Pico W**, **Arduino**, **ESP32**, and **Jetson Na
 ## 🔥 Current Projects
 -  Humanoid bot 
 -  YOLOv8 training & optimization  
--  IoT server–client system dengan API & WebSocket  
+-  IoT server–client system with API & WebSocket  
 
 ---
 
