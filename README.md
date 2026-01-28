@@ -33,14 +33,14 @@ Currently using Raspberry Pi Pico W, Arduino, ESP32, and Jetson Nano. Im interes
 
 ---
 
-## 🔥 Current Projects
+##  Current Projects
 -  Humanoid bot 
 -  YOLOv8 training & optimization  
 -  IoT server–client system with API & WebSocket  
 
 ---
 
-## 📈 Github Stats
+##  Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Izdiharuddin&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izdiharuddin&layout=compact&theme=tokyonight" height="150" />
@@ -49,7 +49,7 @@ Currently using Raspberry Pi Pico W, Arduino, ESP32, and Jetson Nano. Im interes
 ---
 
 
-## 📫 Contact Me
+##  Contact Me
 - **Email:** *izdiharuddin89@gmail.com*  
 - **Instagram:** *@daviicie*  
 - **LinkedIn:** *https://www.linkedin.com/in/ardiansyah-rasyadan-39b79037a/*
